@@ -1,1 +1,1 @@
-#Sample website built for Codecademy Project
+# Sample website built for Codecademy Project
